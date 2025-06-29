@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pos System", "pos System\pos System.csproj", "{B7355B41-63EE-4C3C-BBF3-385C6B0F0080}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{F5D91FD6-F519-3AC5-2EF1-6ADD62B256F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7355B41-63EE-4C3C-BBF3-385C6B0F0080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7355B41-63EE-4C3C-BBF3-385C6B0F0080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7355B41-63EE-4C3C-BBF3-385C6B0F0080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7355B41-63EE-4C3C-BBF3-385C6B0F0080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5D91FD6-F519-3AC5-2EF1-6ADD62B256F6}.Debug|Any CPU.ActiveCfg = Debug
+		{F5D91FD6-F519-3AC5-2EF1-6ADD62B256F6}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DD12739-368E-4906-A7C5-40E4A2E87309}
+	EndGlobalSection
+EndGlobal
