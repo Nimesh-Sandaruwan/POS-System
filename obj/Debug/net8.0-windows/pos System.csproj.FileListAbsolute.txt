@@ -1,0 +1,59 @@
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\pos System.exe
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\pos System.deps.json
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\pos System.runtimeconfig.json
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\pos System.dll
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\pos System.pdb
+F:\POS system\pos System\pos System\obj\Debug\net8.0-windows\pos_System.Frmregister.resources
+F:\POS system\pos System\pos System\obj\Debug\net8.0-windows\pos System.csproj.GenerateResource.cache
+F:\POS system\pos System\pos System\obj\Debug\net8.0-windows\pos System.GeneratedMSBuildEditorConfig.editorconfig
+F:\POS system\pos System\pos System\obj\Debug\net8.0-windows\pos System.AssemblyInfoInputs.cache
+F:\POS system\pos System\pos System\obj\Debug\net8.0-windows\pos System.AssemblyInfo.cs
+F:\POS system\pos System\pos System\obj\Debug\net8.0-windows\pos System.csproj.CoreCompileInputs.cache
+F:\POS system\pos System\pos System\obj\Debug\net8.0-windows\pos System.dll
+F:\POS system\pos System\pos System\obj\Debug\net8.0-windows\refint\pos System.dll
+F:\POS system\pos System\pos System\obj\Debug\net8.0-windows\pos System.pdb
+F:\POS system\pos System\pos System\obj\Debug\net8.0-windows\pos System.genruntimeconfig.cache
+F:\POS system\pos System\pos System\obj\Debug\net8.0-windows\ref\pos System.dll
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\Google.Protobuf.dll
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\MySql.Data.dll
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\System.Text.Json.dll
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\ZstdSharp.dll
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+F:\POS system\pos System\pos System\obj\Debug\net8.0-windows\pos System.csproj.AssemblyReference.cache
+F:\POS system\pos System\pos System\obj\Debug\net8.0-windows\pos_System.frmlogin.resources
+F:\POS system\pos System\pos System\obj\Debug\net8.0-windows\pos System.csproj.Up2Date
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+F:\POS system\pos System\pos System\obj\Debug\net8.0-windows\pos_System.dashbord.resources
+F:\POS system\pos System\pos System\obj\Debug\net8.0-windows\pos_System.Properties.Resources.resources
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\CircularProgressBar.dll
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\WinFormAnimation.dll
+F:\POS system\pos System\pos System\obj\Debug\net8.0-windows\pos_System.Loading.resources
+F:\POS system\pos System\pos System\obj\Debug\net8.0-windows\pos_System.items.resources
+F:\POS system\pos System\pos System\obj\Debug\net8.0-windows\pos_System.stock.resources
+F:\POS system\pos System\pos System\obj\Debug\net8.0-windows\pos_System.Reporting.resources
+F:\POS system\pos System\pos System\obj\Debug\net8.0-windows\pos_System.billing.resources
+F:\POS system\pos System\pos System\obj\Debug\net8.0-windows\pos_System.Support.resources
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\zxing.dll
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\ZXing.Windows.Compatibility.dll
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\BarcodeStandard.dll
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\SkiaSharp.dll
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+F:\POS system\pos System\pos System\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
